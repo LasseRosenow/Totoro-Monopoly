@@ -75,39 +75,42 @@ Every time a player passes the starting point, they can get 200 coins and 1 fore
 
 There are two possible victory conditions:
 
-1. Forest Tokens Goal:
-    - To win, players must reach Totoro’s Tree by fulfilling one of two paths:
-        - a) The Hidden Path
-            - Requirements
-                - Collect 10 Forest Tokens.
-                - Obtain the “Dust Sprite’s Help” card
-            - Steps
-                - Once you have 10 tokens and the “Dust Sprite’s Help” card, announce you’re aiming for Totoro’s Tree.
-                - After declaring:
-                    - You cannot buy properties or collect tokens intentionally (e.g., trading, purchasing).
-                    - You can still gain tokens by:
-                        - Landing on Natural Places.
-                        - Drawing Chance Cards that grant tokens.
-                - Journey to Totoro’s Tree:
-                    - You must land on Hidden Path first.
-                    - move to Totoro’s Tree to win.
-        - b) The Catbus drive
-            - Requirements
-                - Collect 10 Forest Tokens.
-                - Obtain the Umbrella Tool
-            - Steps
-                - Land on any Bus Stop and announce you’re "waiting for Big Totoro"
-                - Move to Totoro’s tree to win.
+### 1. Forest Tokens Goal
 
-        - Interruption Rules (Shared for Both Paths) \
-        Players can disrupt a declared victory attempt in two ways:
-            1. Steal Tokens:
-                - If a claimant is on the Forest Tokens Path, opponents can steal 1 token by landing on their properties.
-                - If the claimant drops below 10 tokens, they must recover to 10 before reaching Totoro’s Tree.
-            2. Block the Tree:
-                - If any player reaches Totoro’s Tree before the claimant, the claimant’s attempt fails:
-                    - Forest Tokens Path: Lose 2 tokens and restart.
-            3. Sabotage Declarations:
-                - Opponents can use cards to cancel a declaration (e.g., “Rainstorm” cancels the Umbrella attempt).
+To win, players must reach Totoro’s Tree by fulfilling one of two paths:
+- a) The Hidden Path
+  - Requirements
+    - Collect 10 Forest Tokens.
+    - Obtain the “Dust Sprite’s Help” card
+  - Steps
+    - Once you have 10 tokens and the “Dust Sprite’s Help” card, announce you’re aiming for Totoro’s Tree.
+    - After declaring:
+      - You cannot buy properties or collect tokens intentionally (e.g., trading, purchasing).
+      - You can still gain tokens by:
+        - Landing on Natural Places.
+        - Drawing Chance Cards that grant tokens.
+    - Journey to Totoro’s Tree:
+      - You must land on Hidden Path first.
+      - move to Totoro’s Tree to win.
+- b) The Catbus drive
+  - Requirements
+    - Collect 10 Forest Tokens.
+    - Obtain the Umbrella Tool
+  - Steps
+    - Land on any Bus Stop and announce you’re "waiting for Big Totoro"
+    - Move to Totoro’s tree to win.
 
-2. Traditional Wealth Goal: If one player bankrupts all others, they win as in classic Monopoly.
+Interruption Rules (Shared for Both Paths) \
+  Players can disrupt a declared victory attempt in two ways:
+  1. Steal Tokens:
+      - If a claimant is on the Forest Tokens Path, opponents can steal 1 token by landing on their properties.
+      - If the claimant drops below 10 tokens, they must recover to 10 before reaching Totoro’s Tree.
+  2. Block the Tree:
+      - If any player reaches Totoro’s Tree before the claimant, the claimant’s attempt fails:
+          - Forest Tokens Path: Lose 2 tokens and restart.
+  3. Sabotage Declarations:
+      - Opponents can use cards to cancel a declaration (e.g., “Rainstorm” cancels the Umbrella attempt).
+
+### 2. Traditional Wealth Goal
+
+If one player bankrupts all others, they win as in classic Monopoly.

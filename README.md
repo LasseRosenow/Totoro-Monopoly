@@ -1,6 +1,6 @@
-# Totoro Monopoly
+# Totoro Monopoly (WIP)
 
-WIP
+![Totoro](./logo.png)
 
 ## Rules
 

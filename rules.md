@@ -78,6 +78,7 @@ There are two possible victory conditions:
 ### 1. Forest Tokens Goal
 
 To win, players must reach Totoro’s Tree by fulfilling one of two paths:
+
 - a) The Hidden Path
   - Requirements
     - Collect 10 Forest Tokens.
@@ -101,7 +102,8 @@ To win, players must reach Totoro’s Tree by fulfilling one of two paths:
     - Move to Totoro’s tree to win.
 
 Interruption Rules (Shared for Both Paths) \
-  Players can disrupt a declared victory attempt in two ways:
+Players can disrupt a declared victory attempt in two ways:
+
   1. Steal Tokens:
       - If a claimant is on the Forest Tokens Path, opponents can steal 1 token by landing on their properties.
       - If the claimant drops below 10 tokens, they must recover to 10 before reaching Totoro’s Tree.

@@ -1,0 +1,175 @@
+Starting
+Every person gets 1000 coins and 2 forest tokens.
+Every time a player passes the starting point, they can get 200 coins and 1 forest token.
+1. Natural vs. Non-Natural Places
+•	Natural Places:
+o	Owning these places gives you forest tokens when certain conditions are met (e.g., landing on them, passing through, or drawing a relevant card).
+o	No building allowed: These locations remain pure, in line with their natural theme.
+o	Rewards: Each natural place can grant 1 forest token when landed on by other players. Or (50 coins, 100 coins, 150 coins, 200 coins according to the side).
+o	Players earn a Forest Token only when stepping on owned natural places, not when they purchase one.
+•	Non-Natural Places:
+o	Work like traditional Monopoly properties. Players can build houses (or thematic alternatives like cabins) on these locations to collect rent.
+o	Players need to own all spaces in the same label (natural vs. non-natural) group to build (similar to traditional rules)
+o	Goal: These places represent community structures, so they are associated with earning money rather than forest tokens.
+________________________________________
+2. Forest Tokens
+•	Purpose: An alternative currency used for special actions like summoning the Catbus, avoiding penalties, or advancing toward victory.
+•	Earning Forest Tokens:
+o	Landing on natural places (owned or unowned) grants 1 token.
+•  When another player lands on a natural place that you own, you gain 1 forest token (instead of rent).
+•  If the space is unowned, the player earns 1 forest token directly.
+o	Completing certain challenges or drawing specific cards rewards tokens.
+o	Trading money for tokens is allowed. To prevent exploitation, no reverse exchange (tokens back to coins) is allowed.
+•	Using Forest Tokens:
+o	Summon the Catbus: Spend 2 tokens to teleport to any Bus Stop.
+o	Avoid penalties: Pay 1 token to ignore weather effects or certain rent fees.
+o	Totoro Tree Access: Need 10 tokens to approach Totoro’s Tree and fulfill the final condition for winning.
+o	Pay Forest Management Fees (Taxes): Players can choose to pay taxes in tokens instead of coins, offering an alternative that preserves their wealth.
+________________________________________
+3. Bus Stops and Weather Effects
+•	Bus Stops:
+o	Players can buy Bus Stops to earn “transport fees” when other players land on them (similar to railroads). Owning multiple Bus Stops increases fees.
+o	Transport Fee: Players landing on a Bus Stop must pay a transport fee to the owner:
+	1 stop owned: Pay 25 coins.
+	2 stops owned: Pay 50 coins.
+	3 stops owned: Pay 100 coins.
+	4 stops owned: Pay 200 coins.
+o	Owners of all 4 Bus Stops can use the Catbus for free during their turn, bypassing the regular transport fee.
+•	Catbus Travel:
+o	Players can summon the Catbus by spending 2 forest tokens.
+o	The Catbus allows you to travel to any Bus Stop or the Totoro tree (if you claim you want to win through the forest token goal).
+o	You can use catbus travel to escape from fine.
+•	Weather Effects:
+o	Weather changes every 3 turns (tracked using a small token on the board).
+o	Rainy Weather:
+	Rent on Bus Stops doubles. Too powerful
+	Catbus becomes unavailable for travel.
+o	Sunny Weather:
+	Normal gameplay; Catbus operates as usual.
+________________________________________
+4. Dust Sprite Activities
+•	Dust Sprite Spaces:
+o	Draw a Special Dust Sprite Card 
+o	Alternatively, they can trade coins for tokens at a favorable exchange rate (e.g., 25 coins = 1 token).
+________________________________________
+5. Utilities
+"Dust Sprite Coal Delivery" Cost: 150 coins.
+o	Not owner lands here can either :
+	Pay the rent (4x or 10x dice roll if both utilities are owned).
+	Trade one Forest Token (if they have any) to avoid paying rent, gaining favor with the Soot Sprites. (50: 1 ratio)
+	If this trade is done, the owner receives 1 Forest Token per forest token trade (one-time for one place & person bonus), alternatively. the owner earns 20 coins per natural property they own (one-time for one place & person bonus). Example: If the owner has 3 natural properties, they earn 60 coins per token traded.
+	it means if one day the owner sells, other person who buys it van again get this bonus.
+o	Punishment Interaction:
+	During Rainy Weather, landing on this utility results in an extra 10% rent, at least 10, due to slippery coal paths.
+________________________________________
+6. Final Winning Condition
+•	There are two possible victory conditions:
+1. Forest Tokens Goal:
+To win, players must reach Totoro’s Tree by fulfilling one of two paths:
+a)	The Hidden Path
+•	Collect 10 Forest Tokens.
+•	Obtain the “Dust Sprite’s Help” card 
+o	Once you have 10 tokens and the “Dust Sprite’s Help” card, announce you’re aiming for Totoro’s Tree.
+o	After declaring:
+	You cannot buy properties or collect tokens intentionally (e.g., trading, purchasing).
+	You can still gain tokens by:
+	Landing on Natural Places.
+	Drawing Chance Cards that grant tokens.
+o	Journey to Totoro’s Tree:
+	You must land on Hidden Path first.
+	move to Totoro’s Tree to win.
+b)	The Catbus drive
+•	Collect 10 Forest Tokens.
+•	Obtain the Umbrella Tool
+o	Land on any Bus Stop and announce you’re “waiting for Big Totoro”
+o	move to Totoro’s Tree to win.
+________________________________________
+Interruption Rules (Shared for Both Paths)
+Players can disrupt a declared victory attempt in two ways:
+1.	Steal Tokens:
+o	If a claimant is on the Forest Tokens Path, opponents can steal 1 token by landing on their properties.
+o	If the claimant drops below 10 tokens, they must recover to 10 before reaching Totoro’s Tree.
+2.	Block the Tree:
+o	If any player reaches Totoro’s Tree before the claimant, the claimant’s attempt fails:
+	Forest Tokens Path: Lose 2 tokens and restart.
+3.	Sabotage Declarations:
+o	Opponents can use cards to cancel a declaration (e.g., “Rainstorm” cancels the Umbrella attempt).
+
+2. Traditional Wealth Goal: If one player bankrupts all others, they win as in classic Monopoly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chest (Dust Sprite Activities) Cards
+Here are 15 Dust Sprite Activities Cards (you can always expand them later):
+1.	"Dust Sprites Help You Clean Up!": Gain 1 Forest Token.
+2.	"Dust Sprites Need Supplies.": Pay 50 coins to help them gather resources.
+3.	"A Dust Storm Is Coming!": All players except me lose 1 turn unless they pay 1 Forest Token to take shelter.
+4.	"Hidden Treasure Found by the Dust Sprites!": Collect 150 coins.
+5.	"Dust Sprites Borrow Your Tools.": Skip your next turn while they use them.
+6.	"They Lead You to a Shortcut!": Move to the nearest Catbus Stop for free.
+7.	"Dust Sprites Celebrate!": Each player gives you 20 coins as part of the party.
+8.	"Unexpected Help!": Dust spirit helps you find the way to Totoro.
+9.	"Busy Cleaning Day.": Pay 2 Forest Tokens or lose 1 turn.
+10.	"They Lead You Astray.": Go to Lost in the Rainstorm (Jail).
+11.	"Transport Issue!": Pay 50 coins for Catbus maintenance.
+12.	"Uncover Hidden Resources.": Gain 1 Forest Token and 50 coins.
+13.	"They Ask for Shelter.": Pay 100 coins to host the Dust Sprites or lose 1 Forest Token.
+14.	"Generous Dust Sprites!": Collect 50 coins from every other player.
+15.	"Playful Dust Sprites!": Swap positions on the board with any other player.
+________________________________________
+Chance (Totoro’s Blessing) Cards
+Here are 15 Totoro’s Blessing Cards:
+1.	"Big Totoro’s Guidance!": Advance to Mei’s Hidden Path.
+2.	"Nature’s Gift!": Gain 2 Forest Tokens.
+3.	"Lucky Day!": Collect 200 coins from Totoro’s Tree.
+4.	"Umbrella Bonus!": Receive an Umbrella Tool.
+5.	"Nature Restores You.": Skip one Forest Management Fee payment.
+6.	"Rainy Blessing!": Teleport to any Bus Stop for free.
+7.	"Kind Totoro!": Everyone pays you 50 coins.
+8.	"Rest by the Tree.": Gain 1 Forest Token and skip your next turn.
+9.	"Mei’s Help!": Advance to the nearest Natural Place.
+10.	"Clean Environment!": Collect 50 coins for promoting nature awareness.
+11.	"Totoro’s Gift!": Receive 1 Forest Token and 50 coins.
+12.	"Tree’s Whisper.": Exchange 2 Forest Tokens for 100 coins.
+13.	"Umbrella Lost!": Pay 100 coins or lose the Umbrella Tool.
+14.	"Totoro’s Guidance!": Take another turn immediately.
+15.	"Rainy Adventure!": Move to the nearest Dust Sprite Activities card.
+

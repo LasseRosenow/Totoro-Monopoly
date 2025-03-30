@@ -58,16 +58,17 @@ Every time a player passes the starting point, they can get 200 coins and 1 **Fo
 
 - Dust Sprite Spaces:
   - Draw a Special Dust Sprite Card
-  - Alternatively, they can trade coins for **Forest Tokens** at a favorable exchange rate (e.g., 25 coins = 1 **Forest Token**).
+  - Alternatively trade coins for **Forest Tokens** at a favorable exchange rate (e.g., 25 coins = 1 **Forest Token**). TODO: Decide on the exchange rate
 
 ## 5. Utilities
 
 - "Dust Sprite Coal Delivery" Cost: 150 coins.
   - If a "not owner" lands here they can either:
     1. Pay the rent (4x or 10x dice roll if both utilities are owned).
-    2. Trade one **Forest Token** (if they have any) to avoid paying rent, gaining favor with the Dust Sprites. (50:1 ratio)
-        - If this trade is done, the owner receives 1 **Forest Token** per **Forest Token** trade (one-time for one place & person bonus), alternatively the owner earns 20 coins per natural property they own (one-time for one place & person bonus). Example: If the owner has 3 natural properties, they earn 60 coins per **Forest Token** traded.
-        - it means if one day the owner sells it, another player who buys it can again get this bonus.
+    2. Trade **Forest Tokens** at a 50:1 ratio to avoid paying rent, gaining favor with the Dust Sprites.
+        - The first time a "not owner" uses this trade, the owner will receive the **Forest Tokens** or the 20 times the amount of natural properties they own in coins per **Forest Token** from the bank.\
+          Example: If the owner has 3 natural properties, they earn 60 coins per **Forest Token** traded (20 * 3 = 60).
+        - If one day the owner sells the "Dust Sprite Coal Delivery", the player who buys it can again get this bonus.
   - Punishment Interaction:
     - During Rainy Weather, landing on this utility results in an extra 10% rent, at least 10, due to slippery coal paths.
 
@@ -93,7 +94,7 @@ To win, players must reach Totoro’s Tree by fulfilling one of two paths:
     - Journey to Totoro’s Tree:
       - You must land on Hidden Path first.
       - Move to Totoro’s Tree to win.
-- b) The Catbus drive
+- b) The Catbus Drive
   - Requirements
     - Collect 10 **Forest Tokens**.
     - Obtain the Umbrella Tool

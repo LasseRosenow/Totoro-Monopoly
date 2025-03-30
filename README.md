@@ -4,4 +4,4 @@
 
 ## Rules
 
-The rules of the game are explained under [rules.md](./rules.md)
+The rules of the game are explained under [rules.md](./src/rules.md)

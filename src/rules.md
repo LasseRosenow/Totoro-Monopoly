@@ -2,7 +2,7 @@
 
 ## Starting
 
-Every person gets 1000 coins and 2 forest tokens.
+Every player gets 1000 coins and 2 forest tokens.
 Every time a player passes the starting point, they can get 200 coins and 1 forest token.
 
 ## 1. Natural vs. Non-Natural Places
@@ -19,7 +19,7 @@ Every time a player passes the starting point, they can get 200 coins and 1 fore
 
 ## 2. Forest Tokens
 
-- Purpose: An alternative currency used for special actions like summoning the Catbus, avoiding penalties, or advancing toward victory.
+- Purpose: An alternative currency used for special actions like summoning the Catbus, avoiding penalties, or advancing towards victory.
 - Earning Forest Tokens:
   - Landing on natural places (owned or unowned) grants 1 token.
     - When another player lands on a natural place that you own, you gain 1 forest token (instead of rent).
@@ -63,11 +63,11 @@ Every time a player passes the starting point, they can get 200 coins and 1 fore
 ## 5. Utilities
 
 - "Dust Sprite Coal Delivery" Cost: 150 coins.
-  - Not owner lands here can either :
-    - Pay the rent (4x or 10x dice roll if both utilities are owned).
-    - Trade one Forest Token (if they have any) to avoid paying rent, gaining favor with the Soot Sprites. (50: 1 ratio)
-    - If this trade is done, the owner receives 1 Forest Token per forest token trade (one-time for one place & person bonus), alternatively. the owner earns 20 coins per natural property they own (one-time for one place & person bonus). Example: If the owner has 3 natural properties, they earn 60 coins per token traded.
-    - it means if one day the owner sells, other person who buys it van again get this bonus.
+  - If a "not owner" lands here they can either:
+    1. Pay the rent (4x or 10x dice roll if both utilities are owned).
+    2. Trade one Forest Token (if they have any) to avoid paying rent, gaining favor with the Dust Sprites. (50:1 ratio)
+        - If this trade is done, the owner receives 1 Forest Token per forest token trade (one-time for one place & person bonus), alternatively the owner earns 20 coins per natural property they own (one-time for one place & person bonus). Example: If the owner has 3 natural properties, they earn 60 coins per token traded.
+        - it means if one day the owner sells it, another player who buys it can again get this bonus.
   - Punishment Interaction:
     - During Rainy Weather, landing on this utility results in an extra 10% rent, at least 10, due to slippery coal paths.
 
@@ -92,7 +92,7 @@ To win, players must reach Totoro’s Tree by fulfilling one of two paths:
         - Drawing Chance Cards that grant tokens.
     - Journey to Totoro’s Tree:
       - You must land on Hidden Path first.
-      - move to Totoro’s Tree to win.
+      - Move to Totoro’s Tree to win.
 - b) The Catbus drive
   - Requirements
     - Collect 10 Forest Tokens.

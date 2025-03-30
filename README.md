@@ -1,4 +1,5 @@
 # Totoro Monopoly (WIP)
+© Zhao Ming
 
 ![Totoro](./logo.png)
 
